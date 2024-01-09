@@ -1,1 +1,2 @@
-# lepke2
+# Órai feladat
+Nappali és éjszakai lepkék bemutatása
